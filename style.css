@@ -1,0 +1,50 @@
+html, body{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Lora, serif;
+}
+.img-div{
+  padding: 2%;
+  text-align: justify;
+}
+.headerImg{
+  background-color: #000;
+  background: url('http://iamarav.github.io/HTML/files/img/Indian-Army.jpg') 18% 100% no-repeat;
+  padding:13%;
+  opacity: 0.8;
+  left: auto;
+}
+.img-div{
+  padding: 2%;
+  text-align: justify;
+}
+.image{
+  float: right;
+  clearfix: auto;
+}
+p{
+  font-size: 1.1em;
+}
+.quote{
+  font-size: 2em;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin: auto;
+  background-color: #c0c0c0;
+  padding: 10px;
+}
+.title, .titleTxtFoot{
+  font-family: 'Roboto Slab', serif;
+  text-align:center;
+  background: #00000065;
+  color: #fff;
+}
+.title{
+    font-size: 5em;
+}
+.titleTxtFoot{
+  padding: 10px;
+  bottom: 10px;
+  width: auto;
+}
